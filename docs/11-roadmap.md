@@ -13,7 +13,9 @@ No dates are promised. Items are listed by dependency, each with a label.
 
 - Try the read-only building-system reader on a real site. PLANNED
 - Compile and test the radio sensor and receiver firmware on hardware. PLANNED
-- Real-hardware boot and long-duration runs for each edition. PLANNED
+- Boot of the general-edition image and of the current technician build on physical hardware (earlier technician and personal builds have booted). PLANNED
+- Installation of an image to disk. PLANNED
+- Long-duration runs for each edition. PLANNED
 - Oricalco: first installable standalone system and licensing decision. PLANNED
 
 ## Praecura
@@ -23,7 +25,8 @@ No dates are promised. Items are listed by dependency, each with a label.
 
 ## Latenza
 
-- Long-duration operation tests. PLANNED
+- Retry for failed alert delivery and handling of the wake-from-sleep false "down". PLANNED
+- Operation beyond our own infrastructure. PLANNED
 
 ## Documentation
 

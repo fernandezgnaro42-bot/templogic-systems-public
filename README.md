@@ -6,7 +6,7 @@
 
 TempLogic Systems builds software for people who keep critical equipment running: a Linux "smart layer" called **Brújula**, a predictive diagnostics system for HVAC and refrigeration called **Praecura**, and a self-hosted uptime monitor called **Latenza**.
 
-This repository is **documentation only**. Source code is private. Every technical statement here carries a status label, and claims we cannot yet prove are not made. See [status labels](docs/status-labels.md).
+This repository is **documentation only**. Source code is private. Every technical statement carries a maturity label and an evidence class (laboratory verified, hardware verified, operationally observed, production validated), and claims we cannot yet prove are not made. See [status labels](docs/status-labels.md).
 
 ## Products
 

@@ -1,7 +1,7 @@
 # FAQ
 
 **Is any product available to buy or deploy?**
-No. Everything is IN DEVELOPMENT. There are no contracts or formal pilots.
+No. Everything is IN DEVELOPMENT. There are no contracts or formal pilots. Some parts already run: see [milestones](08-engineering-milestones.md).
 
 **Is the source code public?**
 No. This repository is documentation only.

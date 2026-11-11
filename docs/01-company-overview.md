@@ -20,4 +20,4 @@ TempLogic Systems is a small independent company building diagnostic and monitor
 
 ## Where we are
 
-All products are IN DEVELOPMENT. No product is offered for sale or under contract, and none has been proven in production use. See [engineering milestones](08-engineering-milestones.md) for what has been verified and [roadmap](11-roadmap.md) for what is planned.
+All products are IN DEVELOPMENT. Brújula has booted on physical computers and runs on our development laptops; Latenza has operated on our own infrastructure with recorded events and notifications. No product is offered for sale or under contract, and none is production validated. See [engineering milestones](08-engineering-milestones.md) for what has been verified and [roadmap](11-roadmap.md) for what is planned.

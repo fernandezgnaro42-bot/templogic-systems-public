@@ -16,6 +16,12 @@ Praecura classifies likely faults and detects anomalies in commercial HVAC and r
 - Automated test suite: 115 tests pass, run in an isolated copy.
 - Scope: software behaviour. No claim is made about diagnostic accuracy.
 
+## Evidence
+
+| Capability | Class | Date | Limits |
+|---|---|---|---|
+| A server instance with its database has run on our own infrastructure with test data only (one equipment record, two readings) | OPERATIONALLY OBSERVED, HISTORICALLY DOCUMENTED | 2026-10-21 | No customer data |
+
 ## Current honest position
 
 - Models trained so far use synthetic data, and the service does not yet use them.

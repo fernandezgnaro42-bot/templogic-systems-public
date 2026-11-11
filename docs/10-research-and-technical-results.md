@@ -22,6 +22,10 @@ What this means:
 
 Ten automated quality checks (duplicates, missing features, units, pressure-temperature, refrigerant and equipment classification, fault labels, implausible values, leakage, provenance) are covered by 80 tests.
 
+## Earlier model training (October 2026, HISTORICALLY DOCUMENTED)
+
+Models were trained on synthetic data produced by a physical model of equipment behavior, across 11 equipment groups (44 models), and labeled synthetic. Real-data evaluation has not been done, so this is not evidence of field accuracy.
+
 ## What we do not claim
 
 - No diagnostic accuracy for any model.
