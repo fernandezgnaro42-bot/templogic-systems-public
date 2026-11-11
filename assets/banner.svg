@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+  <title id="t">TempLogic Systems</title>
+  <desc id="d">Dark banner reading TempLogic Systems, Better Diagnostics, Better Decisions, Better Lives, with a violet accent line.</desc>
+  <rect width="1200" height="360" fill="#0b0b12"/>
+  <rect x="60" y="70" width="8" height="220" fill="#8b5cf6"/>
+  <text x="100" y="170" font-family="Helvetica, Arial, sans-serif" font-size="84" font-weight="700" fill="#f4f2ff">TempLogic Systems</text>
+  <text x="100" y="240" font-family="Helvetica, Arial, sans-serif" font-size="36" fill="#b9a6ff">Better Diagnostics, Better Decisions, Better Lives.</text>
+  <text x="100" y="300" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#a8a4bd">Brújula · Praecura · Latenza</text>
+</svg>
